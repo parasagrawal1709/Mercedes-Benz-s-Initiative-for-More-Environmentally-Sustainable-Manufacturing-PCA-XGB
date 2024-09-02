@@ -58,10 +58,3 @@ Mercedes-Benz is a leader in automotive innovation, with a strong focus on safet
 
 - **R-squared Score**: Calculated the R-squared score for both training and validation datasets.
 - **RMSE**: Computed the Root Mean Square Error (RMSE) for training and validation datasets.
-
-## How to Run the Code
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
