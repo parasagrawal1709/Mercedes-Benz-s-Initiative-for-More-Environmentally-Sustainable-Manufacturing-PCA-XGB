@@ -10,10 +10,6 @@
 - [Feature Engineering](#feature-engineering)
 - [Model Building](#model-building)
 - [Results and Evaluation](#results-and-evaluation)
-- [How to Run the Code](#how-to-run-the-code)
-- [Requirements](#requirements)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
