@@ -1,4 +1,4 @@
-# Mercedes-Benz Environmentally Sustainable Manufacturing: Machine Learning Model to Minimize Vehicle Testing Duration
+# Optimized Vehicle Testing for Economic and Environmental Efficiency : Machine Learning Model to Minimize Vehicle Testing Duration
 
 ## Table of Contents
 
